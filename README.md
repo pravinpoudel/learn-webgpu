@@ -1,3 +1,5 @@
+_To access raytracing code check main repo_
+
 # WebGPU boilerplate with webpack, typescript setup 
 
 _Note (for me)  that in webpack.config.js its module.exports and require()_
