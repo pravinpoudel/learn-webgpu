@@ -1,6 +1,4 @@
 import "./main.css";
+import shader from "./shaders/renderShader.wgsl";
 
-console.log("hello");
-console.log("hello1");
-
-console.log(navigator.gpu);
+console.log(shader);
